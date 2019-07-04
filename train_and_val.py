@@ -6,8 +6,8 @@ import input_data
 import model
 
 # you need to change the directories to yours.
-train_dir = '/home/acrobat/DataSets/cats_vs_dogs/train/'
-test_dir = '/home/acrobat/DataSets/cats_vs_dogs/test/'
+train_dir = '../data/train/'
+test_dir = '../data/test/'
 train_logs_dir = './logs/train/'
 val_logs_dir = './logs/val'
 
