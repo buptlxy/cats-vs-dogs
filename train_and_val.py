@@ -6,8 +6,8 @@ import input_data
 import model
 
 # you need to change the directories to yours.
-train_dir = '../data/train/'
-test_dir = '../data/test/'
+train_dir = '/kaggle/working/data/train/'
+test_dir = '/kaggle/working/data/test/'
 train_logs_dir = './logs/train/'
 val_logs_dir = './logs/val'
 
