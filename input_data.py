@@ -5,7 +5,7 @@ import os
 import math
 
 # you need to change this to your data directory
-train_dir = '/home/acrobat/DataSets/cats_vs_dogs/train/'
+train_dir = '/kaggle/working/data/train/'
 
 def get_files(file_dir, ratio):
     """
